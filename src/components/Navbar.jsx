@@ -13,7 +13,7 @@ const Togglenavbar=()=>{
   <div className='flex items-center space-x-5'>
     <div
       className='h-[100px] w-[100px] rounded-full shadow-lg bg-cover bg-center'
-      style={{ backgroundImage: "url('/logo.png')" }}
+      style={{ backgroundImage: "url('/cafe-website/logo.png')" }}
     ></div>
     <div className='text-2xl font-extrabold'>Crimes & Cappuccinos</div>
   </div>

@@ -7,7 +7,7 @@ function About() {
         
         <div
           className='w-full sm:w-[350px] lg:w-[500px] h-[300px] sm:h-[400px] lg:h-[500px] mt-6 lg:mt-16 lg:ml-16 rounded-2xl bg-cover bg-center'
-          style={{ backgroundImage: 'url(/logo.png)' }}
+          style={{ backgroundImage: 'url(/cafe-website/logo.png)' }}
         ></div>
 
         <div className='w-full max-w-md px-4 text-center lg:text-left'>
